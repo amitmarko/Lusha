@@ -1,0 +1,12 @@
+.wrapper {
+  padding: 40px 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1000px;
+}
